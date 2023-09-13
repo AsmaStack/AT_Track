@@ -1,0 +1,11 @@
+package com.amdocs.SpringApp1;
+
+public class TestHelloModel {
+
+	public static void main(String[] args) {
+
+		
+		
+	}
+
+}

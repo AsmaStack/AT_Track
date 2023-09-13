@@ -1,0 +1,19 @@
+package com.amdocs.SpringApp1;
+
+import org.springframework.beans.factory.BeanFactory;
+//import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class TestHelloModel {
+
+	public static void main(String[] args) {
+
+		BeanFactory conf1= new ClassPathXmlApplicationContext("applicationContext.xml");
+//		ApplicationContext conf= new ClassPathXmlApplicationContext("applicationContext.xml");
+		
+		HelloModel obj1= (HelloModel) conf1.getBean("hello");
+		System.out.println(obj1.getMessage());
+		
+	}
+
+}

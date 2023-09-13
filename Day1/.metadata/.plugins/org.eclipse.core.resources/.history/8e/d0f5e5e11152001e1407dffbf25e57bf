@@ -1,0 +1,10 @@
+package com.amdocs.SpringApp1;
+
+public class StudentModel {
+
+	private int studid;
+	private String stuname;
+	private int age;
+	
+	
+}

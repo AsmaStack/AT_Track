@@ -1,0 +1,36 @@
+package com.amdocs.SpringApp1;
+
+public class StudentModel {
+
+	private long studid;
+	private String stuname;
+	private int age;
+	public StudentModel(long studid, String stuname, int age) {
+		this.studid = studid;
+		this.stuname = stuname;
+		this.age = age;
+	}
+	public StudentModel(long studid) {
+		
+		this.studid = studid;
+	}
+	public StudentModel(String stuname) {
+		
+		this.stuname = stuname;
+	}
+	public StudentModel(int age) {
+	
+		this.age = age;
+	}
+	@Override
+	public String toString() {
+		return "StudentModel [studid=" + studid + ", "
+				+ "stuname=" + stuname + ", "
+						+ "age=" + age + "]";
+	}
+	
+	
+	
+	
+	
+}

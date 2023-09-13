@@ -1,0 +1,15 @@
+package com.amdocs.SpringApp1;
+
+public class StudentModel {
+
+	private int studid;
+	private String stuname;
+	private int age;
+	public StudentModel(int studid, String stuname, int age) {
+		this.studid = studid;
+		this.stuname = stuname;
+		this.age = age;
+	}
+	
+	
+}
