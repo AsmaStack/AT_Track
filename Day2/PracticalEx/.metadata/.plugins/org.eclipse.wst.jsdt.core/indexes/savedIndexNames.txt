@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\Amdocs\AT Track\Day2\PracticalEx\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1368435036.index
+582821650.index
+4190317724.index
+306731834.index
+4276554454.index
+1870668045.index
+515073165.index

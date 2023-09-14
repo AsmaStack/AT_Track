@@ -1,0 +1,5 @@
+package com.amdocs.springmvcwebapp1.controller;
+
+public class HomeController {
+
+}

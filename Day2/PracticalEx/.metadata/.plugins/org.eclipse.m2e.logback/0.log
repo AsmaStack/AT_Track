@@ -1,0 +1,275 @@
+2023-09-14 09:50:52,277 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-09-14 09:55:04,271 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558 [615])
+2023-09-14 09:55:04,287 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558
+2023-09-14 09:55:04,287 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\aether-connector-okhttp-0.17.8.jar
+2023-09-14 09:55:04,288 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\aopalliance-1.0.jar
+2023-09-14 09:55:04,288 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\commons-lang3-3.8.1.jar
+2023-09-14 09:55:04,289 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\failureaccess-1.0.1.jar
+2023-09-14 09:55:04,289 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\guava-30.1-jre.jar
+2023-09-14 09:55:04,289 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\guice-5.1.0.jar
+2023-09-14 09:55:04,289 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\jansi-2.4.0.jar
+2023-09-14 09:55:04,289 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\maven-artifact-3.9.1.jar
+2023-09-14 09:55:04,289 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\maven-builder-support-3.9.1.jar
+2023-09-14 09:55:04,289 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\maven-compat-3.9.1.jar
+2023-09-14 09:55:04,289 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\maven-core-3.9.1.jar
+2023-09-14 09:55:04,289 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\maven-embedder-3.9.1.jar
+2023-09-14 09:55:04,290 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\maven-model-3.9.1.jar
+2023-09-14 09:55:04,290 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\maven-model-builder-3.9.1.jar
+2023-09-14 09:55:04,290 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\maven-plugin-api-3.9.1.jar
+2023-09-14 09:55:04,290 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\maven-repository-metadata-3.9.1.jar
+2023-09-14 09:55:04,290 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\maven-resolver-api-1.9.7.jar
+2023-09-14 09:55:04,290 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\maven-resolver-connector-basic-1.9.7.jar
+2023-09-14 09:55:04,290 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\maven-resolver-impl-1.9.7.jar
+2023-09-14 09:55:04,290 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\maven-resolver-named-locks-1.9.7.jar
+2023-09-14 09:55:04,290 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\maven-resolver-provider-3.9.1.jar
+2023-09-14 09:55:04,290 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\maven-resolver-spi-1.9.7.jar
+2023-09-14 09:55:04,291 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\maven-resolver-transport-wagon-1.9.7.jar
+2023-09-14 09:55:04,291 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\maven-resolver-util-1.9.7.jar
+2023-09-14 09:55:04,291 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\maven-settings-3.9.1.jar
+2023-09-14 09:55:04,291 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\maven-settings-builder-3.9.1.jar
+2023-09-14 09:55:04,291 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\maven-shared-utils-3.3.4.jar
+2023-09-14 09:55:04,292 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\okhttp-3.14.1.jar
+2023-09-14 09:55:04,292 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\okio-1.17.3.jar
+2023-09-14 09:55:04,292 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-09-14 09:55:04,292 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-09-14 09:55:04,293 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\plexus-build-api-0.0.7.jar
+2023-09-14 09:55:04,293 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\plexus-cipher-2.0.jar
+2023-09-14 09:55:04,293 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\plexus-classworlds-2.6.0.jar
+2023-09-14 09:55:04,293 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\plexus-component-annotations-2.1.0.jar
+2023-09-14 09:55:04,294 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\plexus-interpolation-1.26.jar
+2023-09-14 09:55:04,294 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\plexus-sec-dispatcher-2.0.jar
+2023-09-14 09:55:04,294 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\plexus-utils-3.5.1.jar
+2023-09-14 09:55:04,294 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\wagon-file-3.5.3.jar
+2023-09-14 09:55:04,294 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.100.20230519-1558\jars\wagon-provider-api-3.5.3.jar
+2023-09-14 09:55:04,296 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [13])
+2023-09-14 09:55:04,297 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\com.google.guava_31.1.0.jre.jar
+2023-09-14 09:55:04,297 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [982])
+2023-09-14 09:55:04,298 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\slf4j.api_1.7.36.jar
+2023-09-14 09:55:04,299 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [37])
+2023-09-14 09:55:04,300 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-09-14 09:55:04,300 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20230504-0748 [35])
+2023-09-14 09:55:04,302 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\javax.annotation_1.3.5.v20230504-0748.jar
+2023-09-14 09:55:04,302 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.5.0 [69])
+2023-09-14 09:55:04,303 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\org.apache.commons.cli_1.5.0.jar
+2023-09-14 09:55:04,303 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [14])
+2023-09-14 09:55:04,304 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\HP\.p2\pool\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-09-14 09:55:04,315 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\HP\AppData\Local\Temp\m2e-archetypeGenerator8893640813838869877":
+2023-09-14 09:55:04,319 [Worker-14: Launching mavenrun-bdd97af8-dec3-4f6d-90c7-250ceb3564d5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeVersion=1.4 -DgroupId=com.amdocs -DartifactId=springmvcwebapp1 -Dversion=0.0.1-SNAPSHOT -Dpackage=com.amdocs.springmvcwebapp1 -DoutputDirectory="D:\Amdocs\AT Track\Day2\PracticalEx" -Dstyle.color=always -U archetype:generate
+2023-09-14 09:55:42,148 [Worker-5: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\pom.xml
+2023-09-14 09:55:45,307 [Worker-5: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.amdocs:springmvcwebapp1:0.0.1-SNAPSHOT @ D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\pom.xml.
+2023-09-14 09:55:47,538 [Worker-5: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springmvcwebapp1/src/main/java
+2023-09-14 09:55:47,538 [Worker-5: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springmvcwebapp1/src/main/resources
+2023-09-14 09:55:47,539 [Worker-5: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springmvcwebapp1/src/test/java
+2023-09-14 09:55:47,539 [Worker-5: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springmvcwebapp1/src/test/resources
+2023-09-14 09:55:49,957 [Worker-5: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2023-09-14 09:55:50,934 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 09:55:50,934 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\main\resources
+2023-09-14 09:55:50,939 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 09:55:50,939 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\test\resources
+2023-09-14 09:59:13,309 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.amdocs:springmvcwebapp1:0.0.1-SNAPSHOT @ D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\pom.xml.
+2023-09-14 09:59:13,784 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 09:59:13,784 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\main\resources
+2023-09-14 09:59:13,791 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 09:59:13,791 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\test\resources
+2023-09-14 09:59:13,792 [Worker-2: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springmvcwebapp1
+2023-09-14 09:59:13,793 [Worker-2: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springmvcwebapp1
+2023-09-14 10:09:25,705 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-09-14 10:09:26,032 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.amdocs:springmvcwebapp1:0.0.1-SNAPSHOT @ D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\pom.xml.
+2023-09-14 10:09:26,445 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springmvcwebapp1/src/main/java
+2023-09-14 10:09:26,446 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springmvcwebapp1/src/main/resources
+2023-09-14 10:09:26,446 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springmvcwebapp1/src/test/java
+2023-09-14 10:09:26,446 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springmvcwebapp1/src/test/resources
+2023-09-14 10:09:27,186 [Worker-31: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for springmvcwebapp1
+2023-09-14 10:09:27,194 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-09-14 10:09:27,356 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 10:09:27,356 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\main\resources
+2023-09-14 10:09:27,361 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 10:09:27,361 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\test\resources
+2023-09-14 10:09:27,361 [Worker-31: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springmvcwebapp1
+2023-09-14 10:09:27,361 [Worker-31: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springmvcwebapp1
+2023-09-14 10:11:42,389 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 10:11:42,389 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\main\resources
+2023-09-14 10:11:42,390 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 10:11:42,390 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\test\resources
+2023-09-14 10:17:01,299 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.amdocs:springmvcwebapp1:0.0.1-SNAPSHOT @ D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\pom.xml.
+2023-09-14 10:17:01,321 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-core:jar:5.3.10.RELEASE is missing, no dependency information available
+2023-09-14 10:17:01,332 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-webmvc:jar:5.3.10.RELEASE is missing, no dependency information available
+2023-09-14 10:17:01,759 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 10:17:01,759 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\main\resources
+2023-09-14 10:17:01,763 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 10:17:01,763 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\test\resources
+2023-09-14 10:17:01,764 [Worker-33: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springmvcwebapp1
+2023-09-14 10:17:01,764 [Worker-33: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springmvcwebapp1
+2023-09-14 10:17:03,246 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.10.RELEASE/spring-core-5.3.10.RELEASE-sources.jar
+2023-09-14 10:17:03,257 [Worker-38: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework:spring-core:5.3.10.RELEASE
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework:spring-core:jar:sources:5.3.10.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:584)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:553)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:538)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-09-14 10:17:03,674 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/5.3.10.RELEASE/spring-webmvc-5.3.10.RELEASE-sources.jar
+2023-09-14 10:17:03,677 [Worker-38: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework:spring-webmvc:5.3.10.RELEASE
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework:spring-webmvc:jar:sources:5.3.10.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:584)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:553)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:538)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-09-14 10:17:32,754 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.amdocs:springmvcwebapp1:0.0.1-SNAPSHOT @ D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\pom.xml.
+2023-09-14 10:17:32,767 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-webmvc:jar:5.3.10.RELEASE is missing, no dependency information available
+2023-09-14 10:17:33,316 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 10:17:33,316 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\main\resources
+2023-09-14 10:17:33,322 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 10:17:33,322 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\test\resources
+2023-09-14 10:17:33,323 [Worker-40: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springmvcwebapp1
+2023-09-14 10:17:33,323 [Worker-40: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springmvcwebapp1
+2023-09-14 10:17:34,722 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/5.3.10.RELEASE/spring-webmvc-5.3.10.RELEASE-javadoc.jar
+2023-09-14 10:17:34,726 [Worker-40: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.springframework:spring-webmvc:5.3.10.RELEASE
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework:spring-webmvc:jar:javadoc:5.3.10.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:584)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:553)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:538)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-09-14 10:17:52,589 [Worker-42: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.amdocs:springmvcwebapp1:0.0.1-SNAPSHOT @ D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\pom.xml.
+2023-09-14 10:17:53,012 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 10:17:53,012 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\main\resources
+2023-09-14 10:17:53,017 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 10:17:53,017 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\test\resources
+2023-09-14 10:17:53,018 [Worker-42: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springmvcwebapp1
+2023-09-14 10:17:53,019 [Worker-42: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springmvcwebapp1
+2023-09-14 10:17:54,058 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar
+2023-09-14 10:17:54,441 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar
+2023-09-14 10:17:54,449 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webmvc:4.0.0.RELEASE
+2023-09-14 10:17:54,635 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.0.0.RELEASE/spring-web-4.0.0.RELEASE-sources.jar
+2023-09-14 10:17:55,154 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.0.0.RELEASE/spring-web-4.0.0.RELEASE-sources.jar
+2023-09-14 10:17:55,159 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-web:4.0.0.RELEASE
+2023-09-14 10:18:57,762 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-09-14 10:18:57,938 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.amdocs:springmvcwebapp1:0.0.1-SNAPSHOT @ D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\pom.xml.
+2023-09-14 10:18:58,309 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springmvcwebapp1/src/main/java
+2023-09-14 10:18:58,309 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springmvcwebapp1/src/main/resources
+2023-09-14 10:18:58,309 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springmvcwebapp1/src/test/java
+2023-09-14 10:18:58,309 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springmvcwebapp1/src/test/resources
+2023-09-14 10:18:58,610 [Worker-31: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for springmvcwebapp1
+2023-09-14 10:18:58,616 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-09-14 10:18:58,749 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 10:18:58,750 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\main\resources
+2023-09-14 10:18:58,754 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 10:18:58,754 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\test\resources
+2023-09-14 10:18:58,755 [Worker-40: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springmvcwebapp1
+2023-09-14 10:18:58,755 [Worker-40: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springmvcwebapp1
+2023-09-14 11:04:23,064 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:04:23,064 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\main\resources
+2023-09-14 11:04:23,065 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:04:23,066 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\test\resources
+2023-09-14 11:09:38,014 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:09:38,015 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\main\resources
+2023-09-14 11:09:38,017 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:09:38,017 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\test\resources
+2023-09-14 11:11:50,848 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:11:50,848 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\main\resources
+2023-09-14 11:11:50,850 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:11:50,850 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\test\resources
+2023-09-14 11:13:27,642 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:13:27,642 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\main\resources
+2023-09-14 11:13:27,645 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:13:27,647 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\test\resources
+2023-09-14 11:14:57,234 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:14:57,234 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\main\resources
+2023-09-14 11:14:57,236 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:14:57,236 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\test\resources
+2023-09-14 11:17:17,851 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:17:17,851 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\main\resources
+2023-09-14 11:17:17,853 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:17:17,853 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\test\resources
+2023-09-14 11:17:55,600 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:17:55,601 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\main\resources
+2023-09-14 11:17:55,603 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:17:55,603 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\test\resources
+2023-09-14 11:18:55,304 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:18:55,305 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\main\resources
+2023-09-14 11:18:55,306 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:18:55,306 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\test\resources
+2023-09-14 11:24:15,458 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:24:15,458 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\main\resources
+2023-09-14 11:24:15,460 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:24:15,460 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\test\resources
+2023-09-14 11:25:40,016 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:25:40,017 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\main\resources
+2023-09-14 11:25:40,018 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:25:40,018 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\test\resources
+2023-09-14 11:29:13,025 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:29:13,026 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\main\resources
+2023-09-14 11:29:13,027 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:29:13,027 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\test\resources
+2023-09-14 11:31:16,861 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:31:16,862 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\main\resources
+2023-09-14 11:31:16,863 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:31:16,863 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\test\resources
+2023-09-14 11:31:36,599 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:31:36,599 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\main\resources
+2023-09-14 11:31:36,602 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:31:36,602 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\test\resources
+2023-09-14 11:32:03,327 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:32:03,327 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\main\resources
+2023-09-14 11:32:03,329 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:32:03,329 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\test\resources
+2023-09-14 11:33:50,470 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:33:50,471 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\main\resources
+2023-09-14 11:33:50,473 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:33:50,473 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\test\resources
+2023-09-14 11:34:57,386 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:34:57,386 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\main\resources
+2023-09-14 11:34:57,387 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:34:57,387 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\test\resources
+2023-09-14 11:36:20,492 [Worker-68: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-09-14 11:36:20,914 [Worker-68: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.amdocs:springmvcwebapp1:0.0.1-SNAPSHOT @ D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\pom.xml.
+2023-09-14 11:36:21,432 [Worker-68: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springmvcwebapp1/src/main/java
+2023-09-14 11:36:21,432 [Worker-68: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springmvcwebapp1/src/main/resources
+2023-09-14 11:36:21,432 [Worker-68: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springmvcwebapp1/src/test/java
+2023-09-14 11:36:21,433 [Worker-68: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springmvcwebapp1/src/test/resources
+2023-09-14 11:36:21,682 [Worker-68: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for springmvcwebapp1
+2023-09-14 11:36:21,724 [Worker-68: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-09-14 11:36:21,920 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:36:21,920 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\main\resources
+2023-09-14 11:36:21,922 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-14 11:36:21,922 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Amdocs\AT Track\Day2\PracticalEx\springmvcwebapp1\src\test\resources
+2023-09-14 11:36:21,923 [Worker-65: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springmvcwebapp1
+2023-09-14 11:36:21,923 [Worker-65: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springmvcwebapp1

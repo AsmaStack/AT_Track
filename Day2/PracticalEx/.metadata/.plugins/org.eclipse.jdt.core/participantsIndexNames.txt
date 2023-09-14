@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+D:\Amdocs\AT Track\Day2\PracticalEx\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\104627398.index
+\springmvcwebapp1\target\generated-sources\annotations
+D:\Amdocs\AT Track\Day2\PracticalEx\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\306731834.index
+\springmvcwebapp1\target\generated-sources\annotations
