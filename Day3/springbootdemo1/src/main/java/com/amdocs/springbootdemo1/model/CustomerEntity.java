@@ -11,16 +11,17 @@ public class CustomerEntity {
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private int custid;
-	private String custname;
-
+	private String first_Name;
+	//private String lastName;
 	public CustomerEntity() {
 		// TODO Auto-generated constructor stub
 	}
 
-	public CustomerEntity(int custid, String custname) {
+	public CustomerEntity(int custid, String first_Name) {
 		//super();
 		this.custid = custid;
-		this.custname = custname;
+		this.first_Name = first_Name;
+		//this.lastName=lastName;
 	}
 
 	public int getCustid() {
@@ -31,12 +32,16 @@ public class CustomerEntity {
 		this.custid = custid;
 	}
 
-	public String getCustname() {
-		return custname;
+	public String getFirstname() {
+		return first_Name;
 	}
 
-	public void setCustname(String custname) {
-		this.custname = custname;
+	public void setFirstname(String first_Name) {
+		this.first_Name = first_Name;
 	}
+
+	
+
+	
 
 }
