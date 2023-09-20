@@ -1,0 +1,21 @@
+S#.No.,Question,Option A,Option B,Option C,Option D,Correct Answer
+1,What is the command to create a new Git branch?,a) git new-branch,b) git branch-create,c) git branch,d) git checkout -b,c) git branch
+2,How do you stage changes in Git for commit?,a) git commit -a,b) git add,c) git stage,d) git commit -s,b) git add
+3,Which Git command is used to view the commit history?,a) git log,b) git history,c) git show,d) git commits,a) git log
+4,What is a Git repository?,a) A collection of untracked files,b) A workspace for editing code,c) A folder with a .git directory containing version history,d) A backup of your computer,c) A folder with a .git directory containing version history
+5,What command is used to merge a branch into the current branch in Git?,a) git combine,b) git branch-merge,c) git merge,d) git switch,c) git merge
+6,How do you discard changes in your working directory using Git?,a) git reset,b) git discard,c) git undo,d) git revert,a) git reset
+7,What does the "git pull" command do?,a) Push changes to a remote repository,b) Fetch changes from a remote repository and merge them into the current branch,c) Create a new branch,d) Delete the current branch,b) Fetch changes from a remote repository and merge them into the current branch
+8,What is the purpose of the "git clone" command?,a) Create a new branch,b) Copy a Git repository to a new location,c) Push changes to a remote repository,d) Delete a branch,b) Copy a Git repository to a new location
+9,How do you create a Git tag for a specific commit?,a) git mark,b) git add-tag,c) git tag,d) git create-tag,c) git tag
+10,What is the Git command to view the differences between two commits?,a) git compare,b) git diff,c) git show-diff,d) git changes,b) git diff
+11,How do you create a remote repository on GitHub using Git CLI?,a) git create-remote,b) git push-repo,c) git remote-create,d) git remote add origin, c) git remote-create
+12,Which Git command is used to unstage changes from the staging area?,a) git unstage,b) git reset,c) git remove,d) git uncommit,b) git reset
+13,What is the purpose of the "git branch" command?,a) Create a new branch,b) Delete a branch,c) View the list of branches,d) Merge branches,c) View the list of branches
+14,How do you rename a local branch in Git?,a) git branch-rename,b) git rename-branch,c) git move-branch,d) git branch -m,c) git move-branch
+15,Which Git command is used to create a new commit?,a) git stage,b) git commit,c) git save,d) git push,b) git commit
+16,What does the "git push" command do?,a) Fetch changes from a remote repository,b) Create a new branch,c) Push changes to a remote repository,d) Delete a branch,c) Push changes to a remote repository
+17,What is the purpose of the ".gitignore" file in a Git repository?,a) It stores Git configuration settings,b) It contains the list of ignored files and directories,c) It tracks the history of commits,d) It's a backup of the repository,b) It contains the list of ignored files and directories
+18,How do you create a new branch and switch to it in one command in Git?,a) git new-branch,b) git create-branch,c) git switch -c,d) git branch -s,c) git switch -c
+19,What is a Git commit message?,a) A brief description of the changes made in a commit,b) The name of the branch,c) A comment about the weather,d) The author's name,a) A brief description of the changes made in a commit
+20,How do you delete a remote branch in Git?,a) git remove-branch,b) git delete-remote-branch,c) git push origin --delete,d) git branch -d,c) git push origin --delete
