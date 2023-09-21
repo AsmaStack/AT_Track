@@ -1,0 +1,49 @@
+sdlc phases
+
+1. planning
+2. defining-SRS 
+3. designing-DDS(Design Document Specification)
+4. Building-Backend-Java(Spring Boot), Frontend- React, Database-MongoDB
+5. Testing-Unit Testing
+6. Deployment- AWS Deployment, Docker deployment
+
+
+1. Create Jar file in spring boot app
+
+mvn clean package
+
+2.  docker --version
+
+
+3. create a docker file
+
+FROM openjdk:17-jdk-slim-buster
+ARG JAR_FILE=target/*.jar
+COPY ./target/DemoApp.jar demoapp1.jar
+EXPOSE 8761
+ENTRYPOINT ["java","-jar","/demoapp1.jar"]
+
+
+4.create docker image
+docker build -t helloapi
+
+
+5. docker run
+docker run -p 8000:8080 helloapi
+
+6. As images running by creating container in docker
+
+docker container ls
+
+7. to rename the container with container id
+
+docker rm -f db86ce9da7ca
+
+8. to deploy the application
+docker run -d -p 8000:8080 helloapi
+
+
+reference link: https://www.docker.com/blog/kickstart-your-spring-boot-application-development/
+
+
+

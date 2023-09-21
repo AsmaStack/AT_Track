@@ -22,6 +22,8 @@ public class BookController {
 
 	private BookService bookserv;
 
+	
+	
 	@Autowired
 	public BookController(BookService bookserv) {
 		//super();
@@ -33,6 +35,11 @@ public class BookController {
 	
 	//insert into book_entity(book_name, pub_date)values(?,?);
 	//http://localhost:8085/books/insert
+	public String indexpage()
+	{
+		return "index";
+	}
+	
 	@PostMapping("/insert")
 	public BookEntity saveBook(@RequestBody BookEntity book)
 	{
